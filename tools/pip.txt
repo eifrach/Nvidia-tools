@@ -1,0 +1,5 @@
+setuptools-rust
+bcrypt
+pyasn1
+pynacl
+paramiko>=2.12.0
